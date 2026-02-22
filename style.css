@@ -1,0 +1,27 @@
+body {
+  font-family: system-ui;
+  background: #f06d06;
+  color: white;
+  text-align: center;
+}
+
+h1 {
+  font-family: system-ui;
+  background: #DC143C;
+  color: white;
+  text-align: center;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+p {
+  font-family: system-ui;
+  background: #f06d04;
+  color: white;
+  text-align: center;
+}
